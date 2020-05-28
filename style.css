@@ -1,0 +1,47 @@
+h1{
+   color: lightgoldenrodyellow; 
+}
+      *{
+       /* border: solid;*/
+        margin: 20px;
+        padding: 20px;
+    }
+  .header{
+      background-color: red
+  }  
+  .text{
+    background-color: orangered;
+ }
+ .mango{
+    background-color: yellow;
+}
+.info{
+    color: lightgoldenrodyellow;
+   flex-wrap: wrap;
+   align-content: stretch;
+   justify-content: space-evenly;
+   background-color: greenyellow;
+} 
+.linktext{
+    background-color: lightblue;
+}
+.link:hover a {
+  opacity: 1;
+}
+.link{
+    background-color: blue
+    }
+ .jill {
+   color: maroon;
+ }   
+.link a{
+  opacity: 0;
+}    
+  a{
+    color: gray; 
+  }
+ .purple{
+    color: lightgoldenrodyellow; 
+    background-color: purple;
+ }
+ 
